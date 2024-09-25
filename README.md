@@ -9,6 +9,10 @@ Current projects:
 Recently used programming languages: dart/Flutter, ts/js, python, c, c++
 
 Recently used cloud services: Azure, AWS, GCP, Rails, Roboflow
+
+Recent projects worked on : 
+TROOPR - CTO, Engineering Manager to create a social health App driving 20K plus users daily. Got dragons den investment
+MYHOMEFIELD - CTO, Founder - created a AI on Mobile App that in realtime could read football-kicks, shot on goals and player training and give relevant coaching. Was backed by a famous investor in Europe - JSvH
   
 Currently learning: 
 - tensorflow optimising
@@ -19,6 +23,7 @@ Recently Learned:
 - Yolov8 to tflite  models and incorporating in flutter apps
 - Yolov5 to tflite models
 - Yolov8 and Yolov10 training
+- Node.js and Sequalize ORM on Azure 
 
 <!--
 **mfagerdal/mfagerdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
