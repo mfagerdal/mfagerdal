@@ -4,10 +4,8 @@ I'm a CTO who loves coding, developing ideas, and making them grow - by team, fu
 
 Current projects:
 - CTO at Elvy. Making all of Sweden have a low electrical subscription and stability by using AI and a lot of optimization to the traditional way of working. 
-- Using AI on devices in real-time (Android and iPhone), to detect football techniques (shooting, dribbling, juggling...) and set points and new exercises.
-- Use AI on mobiles to ..
 
-Recently used programming languages: Dart/Flutter, TypeScript/JavaScript, Python, C, C++
+Recently used tech: SDD, Openclaw, LiamNeesonAgentWorkFlow, AgentMesh, Dart/Flutter, TypeScript/JavaScript, Python, C, C++, Go
 
 Recently used cloud services: Azure, AWS, GCP, Rails, Roboflow
 
