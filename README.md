@@ -11,8 +11,11 @@ Recently used cloud services: Azure, AWS, GCP, Rails, Roboflow
 
 Recent projects worked on : 
 TROOPR - CTO, Engineering Manager to create a social health App driving 20K plus users daily. Got a Dragon's Den investment
+
 MYHOMEFIELD - CTO, Founder - created an AI for a Mobile App that, in real-time, could read football kicks, shots on goal, and player training data and provide relevant coaching. Was backed by a famous investor in Europe - JSvH
+
 TIETO - Head of Products - managing 400 MEUR of direct revenue and managing 4 business units within the cloudsphere, 300 FTE's, 28% operational margin. 
+
   
 Currently learning: 
 - TensorFlow optimizing
